@@ -1,0 +1,57 @@
+body{
+  background-image: url("background.png");
+  padding: auto;
+}
+nav{ 
+  padding: 20px;
+  text-align: center;
+  background-color: black;
+  font-size: 40px;
+  font-family: helvetica;
+
+}
+
+ #bichano{
+  color: blueviolet;
+  padding-right: 90px;
+  font-size:40px ;
+} 
+
+#gato{
+    
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+h1{
+text-align: center;
+text-decoration: double;
+color: blueviolet;
+padding-top: 40px;
+font-family: helvetica;
+font-size: 25;
+} 
+
+p{ align-items: center;
+  text-align: center;
+}
+
+button{
+  border-color: blueviolet;
+  color: blueviolet;
+position:center;
+}
+
+footer {
+  position:absolute;
+  bottom:0;
+  width:100%;   
+  height: 10px; 
+  color: blueviolet;
+  background-color: black;
+  font-family: helvetica;
+  font-size: 25;
+  text-align: center;
+  padding: 20px;
+}
